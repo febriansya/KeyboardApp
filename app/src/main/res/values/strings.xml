@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KeyboardApp</string>
+    <string name="nama_key">Nama Keyboard</string>
+    <string name="detail_key">Detail</string>
+    <string name="yan_febriansyah">yan febriansyah</string>
+    <string name="darmansyahyan21_gmail_com">darmansyahyan21@gmail.com</string>
+    <string name="harga">kisaran harga</string>
+    <string name="berat">Berat</string>
+    <string name="todo">TODO</string>
+    <string name="go">go tokoped</string>
+    <string name="tipe_keyboard">Tipe Keyboard </string>
+    <string name="tipe_switch">Tipe Switch </string>
+    <string name="fitur_spesial">fitur spesial </string>
+
+</resources>
